@@ -1,8 +1,4 @@
 
-```markdown
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Sre%F0%9F%98%8Dko+Jovan%F0%9F%98%8Devi%F0%9F%98%8D+%7C+Chief+IT+Infrastructure;20%2B+godina+enterprise+experience;Graph+SDK+v2+Backup+Creator;VMware+4%E2%86%927+Certified;Ready+for+your+team+today!+%F0%9F%A4%96" alt="Typing SVG" />
-</p>
 
 # 👨‍💼 **SREĆKO JOVANČEVIĆ**
 **Senior Systems Engineer / IT Infrastructure Manager**  
