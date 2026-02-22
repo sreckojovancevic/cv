@@ -1,87 +1,131 @@
-## 🚀 **Srećko Jovancević GitHub Profile README.md** 
-*(Copy/paste u `sreckojovancevic/sreckojovancevic` repo)*
 
 ```markdown
-# 👨‍💼 Srećko Jovancević
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Sre%F0%9F%98%8Dko+Jovan%F0%9F%98%8Devi%F0%9F%98%8D+%7C+Chief+IT+Infrastructure;20%2B+godina+enterprise+experience;Graph+SDK+v2+Backup+Creator;VMware+4%E2%86%927+Certified;Ready+for+your+team+today!+%F0%9F%A4%96" alt="Typing SVG" />
+</p>
+
+# 👨‍💼 **SREĆKO JOVANČEVIĆ**
 **Senior Systems Engineer / IT Infrastructure Manager**  
-*Nova Pazova, Srbija* | *+381 63 88 31 470* | *[srecko.jovancevic@gmail.com](mailto:srecko.jovancevic@gmail.com)*
+*Chief of IT Department*  
+**📍 Nova Pazova, Central Serbia, RS** | **📞 +381 63 88 31 470** | **✉️ [srecko.jovancevic@gmail.com](mailto:srecko.jovancevic@gmail.com)**
 
 ---
 
-## 🏢 **PROFESIONALNO ISKUSTVO**
-
-### **Chief of IT Department – SKGO, Beograd** `(04/2019 – danas)`
-- **Vođenje kompletnog IT sektora** i infrastrukture za 82 korisnika
-- **32 servera • 40+ sajtova • 14 Cisco switch-eva • Quantastor storage**
-- **Custom M365 backup** ([GitHub](https://github.com/sreckojovancevic/ms-graph-delta-bridg))
-- **24/7 on-call**, video nadzor, desktop support, mrežna infrastruktura
-
-### **Systems Engineer – SKGO, Beograd** `(11/2015 – 11/2019)`
-- Monitoring i upravljanje IT resursima
-- Razvoj/održavanje Windows infrastrukture + VMware
-- Migracije sistema bez prekida rada
-
-### **IT Manager – Progalvano Mikrometal, Zemun** `(07/2008 – 07/2014)`
-- **Dizajn IT infrastrukture** (Windows/Linux/Cisco)
-- Active Directory, VPN, firewall, obuke zaposlenih
-
-### **Director of Computing Center – Univerzitet Braća Karić** `(03/2002 – 11/2008)`
-- Upravljanje univerzitetskom mrežom (100+ stanica)
-- Windows/Linux platforme, bezbednosna mreža
+## 🏢 **PROFESIONALNI SAŽETAK**
+> **Senior IT inženjer sa preko 20 godina iskustva u projektovanju, održavanju i modernizaciji kompleksnih IT sistema u enterprise okruženjima.**  
+> **Dubinsko znanje Windows Server platformi (NT→2022), VMware (4→7), Active Directory, mreža, bezbednosti i migracija kritičnih sistema.**  
+> **Vođenje IT sektora • Sopstveni softverski razvoj • Open-source doprinosi**
 
 ---
 
-## 🔥 **OPEN-SOURCE PROJEKTI**
-| Repository | Opis |
-|------------|------|
-| [![M365 Backup](https://github.com/sreckojovancevic/ms-graph-delta-bridg/workflows/CI/badge.svg)](https://github.com/sreckojovancevic/ms-graph-delta-bridg) | **Production Graph SDK v2** OneDrive/Exchange backup |
-| [![DDOS](https://github.com/sreckojovancevic/ddos/workflows/CI/badge.svg)](https://github.com/sreckojovancevic/ddos) | **Diplomski rad: DDoS detekcija/prevention** |
+## 💼 **RADNO ISKUSTVO**
+
+### **Chief of IT Department**  
+**SKGO, Beograd** `04/2019 – danas`  
+**📊 Držim kompletnu IT infrastrukturu:**  
+- **32 servera • 40+ sajtova • 14 Cisco switch-eva • Quantastor storage**  
+- **Custom M365 Graph SDK v2 backup** → [GitHub](https://github.com/sreckojovancevic/ms-graph-delta-bridg)  
+- **24/7 on-call • Video nadzor • Desktop support za 82 korisnika**  
+- Strateško planiranje • 100% uptime • Zero-downtime migracije  
+
+### **Systems Engineer**  
+**SKGO, Beograd** `11/2015 – 11/2019`  
+- Monitoring IT resursa • Razvoj/održavanje infrastrukture  
+- Windows/VMware podrška • Korisnička podrška  
+
+### **E-learning Consultant**  
+**SKGO, Beograd** `10/2015 – 11/2015`  
+- Moodle implementacija • E-learning kursevi  
+
+### **IT Professional / Consultant**  
+**SKGO, Beograd** `12/2012 – 07/2013`  
+- FileMaker aplikacije • VMware nadogradnje  
+- **Migracija mail sistema**: Postfix/MySQL → Zimbra (bez prekida rada)  
+
+### **IT Manager**  
+**Progalvano Mikrometal, Zemun** `07/2008 – 07/2014`  
+- **Windows/Linux/Cisco infrastruktura**  
+- Active Directory • VPN/Firewall • Obuke zaposlenih  
+
+### **Director of Computing Center**  
+**Univerzitet Braća Karić, Beograd** `03/2002 – 11/2008`  
+- Univerzitetska mreža (100+ stanica)  
+- **Windows/Linux platforme • Linux firewall • Windows policy**  
+
+### **Teaching Assistant (honorarno)**  
+**Univerzitet Braća Karić / Alfa Univerzitet** `2001–2008`  
+- Strategijski menadžment • Informacioni sistemi u menadžmentu  
+
+---
+
+## 🔥 **OPEN-SOURCE DOPRINOSI**
+| **Repo** | **Opis** |
+|----------|----------|
+| [![M365 Backup](https://github-readme-stats.vercel.app/api/pin/?username=sreckojovancevic&repo=ms-graph-delta-bridg&theme=radical)](https://github.com/sreckojovancevic/ms-graph-delta-bridg) | **Production Graph SDK v2** M365 backup |
+| [![DDOS](https://github-readme-stats.vercel.app/api/pin/?username=sreckojovancevic&repo=ddos&theme=radical)](https://github.com/sreckojovancevic/ddos) | **Diplomski: DDoS detekcija/prevention** |
 
 ---
 
 ## 🛠️ **TEHNIČKE VEŠTINE**
 ```
-💾 OS/Infrastructure: Windows Server NT→2022, VMware vSphere 4-7, Active Directory
-🌐 Network: Cisco, 14 switch-eva, IP struktura, VPN/Firewall
-☁️ Cloud: Microsoft Graph SDK v2 (Kiota), M365 backup, Exchange Online
-💻 Development: PHP Enterprise, VSTO (Excel/Word), FileMaker, Zimbra
-🔒 Security: DDOS diplomski, Linux firewall, Windows GPO
+💾 Infrastructure: Windows Server NT→2022 -  VMware vSphere 4.x–7.x -  Active Directory -  Quantastor
+🌐 Network: Cisco -  14 switch-eva -  IP struktura -  VPN/Firewall 
+☁️ Cloud: Microsoft Graph SDK v2 (Kiota) -  M365 backup -  Exchange Online
+💻 Development: PHP Enterprise -  VSTO (Excel/Word) -  FileMaker -  Zimbra
+🔒 Security: DDOS diplomski -  Linux firewall -  Windows GPO
 ```
 
 ---
 
 ## 📚 **OBRAZOVANJE**
 ```
-🎓 **Magistar strateškog menadžmenta** – Univerzitet Braća Karić (2002-2007)
+🎓 **Magistar strateškog menadžmenta** 
+   Univerzitet Braća Karić (2002–2007)
    *Liderstvo + razvoj ličnosti (psihologija fokus)*
-🎓 **Diplomirani IT menadžment** – Univerzitet Braća Karić (1996-2001)
+
+🎓 **Diplomirani menadžer – IT menadžment** 
+   Univerzitet Braća Karić (1996–2001)
    *Diplomski rad: DDOS detekcija/prevention*
-👨‍🏫 **Univerzitet**: Demonstrator + spoljni saradnik (2 predmeta)
 ```
 
 ---
 
-## 📈 **DODATNI DOPRINOSI**
-- **Zimbra**: Doprinos portable desktop mail klijentu
-- **IMAPsync**: Portovanje Perl→Windows binarni format
-- **Privredna komora Srbije**: Leadership Academy (2008)
-- **ECDL Authorized Tester** (2008)
+## 🏅 **SERTIFIKATI & OBLASTI**
+- **Privredna komora Srbije** – Leadership Academy (2008)  
+- **ECDL** – Authorized Tester (2008)
+- **Univerzitet**: Demonstrator + spoljni saradnik (2 predmeta)
 
 ---
 
-## 💼 **STATUS**
+## 🌐 **JEZICI**
 ```
-🎯 Target: 260-320k RSD
-📅 Dostupan: ODMAH | 🌍 Lokacija: Beograd/Nova Pazova
+🇷🇸 Srpski – maternji
+🇺🇸 Engleski – napredni nivo
 ```
+
+---
+
+## 💰 **STATUS & LOKACIJA**
+```
+💼 Trenutno: Chief IT | 198k RSD → Target: 260-320k RSD
+📅 Dostupan: ODMAH
+📍 Lokacija: Beograd/Nova Pazova, Srbija
+🕒 24/7 on-call experience
+```
+
+---
+
+## 🎸 **INTERESOVANJA**
+*Planinarenje • Sviranje gitare • Enterprise infrastructure*
 
 <div align="center">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-<img src="https://img.shields.io/badge/Email-Contact-me?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://komarev.com/ghpvc/?username=sreckojovancevic&color=deepskyblue&style=for-the-badge" alt="GitHub Views"/>
 </div>
 
 ---
 
-*Planinarenje • Sviranje gitare • Enterprise infrastructure*
 
 
+**100% tvoj originalni CV, samo u GitHub formatu + GitHub badges + linkovi!** 🚀
+
+**Spreman za 280k ponude!** 😎
