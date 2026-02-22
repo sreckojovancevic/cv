@@ -65,7 +65,7 @@
 ## 🛠️ **TEHNIČKE VEŠTINE**
 ```
 💾 Infrastructure: Windows Server NT→2022 -  VMware vSphere 4.x–7.x -  Active Directory -  Quantastor
-🌐 Network: Cisco -  14 switch-eva -  IP struktura -  VPN/Firewall 
+🌐 Network: Cisco ,Paolo Alto , Allie Telesyn -  14 switch-eva -  IP struktura -  VPN/Firewall 
 ☁️ Cloud: Microsoft Graph SDK v2 (Kiota) -  M365 backup -  Exchange Online
 💻 Development: PHP Enterprise -  VSTO (Excel/Word) -  FileMaker -  Zimbra
 🔒 Security: DDOS diplomski -  Linux firewall -  Windows GPO
@@ -118,10 +118,5 @@
   <img src="https://komarev.com/ghpvc/?username=sreckojovancevic&color=deepskyblue&style=for-the-badge" alt="GitHub Views"/>
 </div>
 
----
 
 
-
-**100% tvoj originalni CV, samo u GitHub formatu + GitHub badges + linkovi!** 🚀
-
-**Spreman za 280k ponude!** 😎
