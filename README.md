@@ -103,8 +103,8 @@
 
 ## 💰 **STATUS & LOKACIJA**
 ```
-💼 Trenutno: Chief IT | 198k RSD → Target: 260-320k RSD
-📅 Dostupan: ODMAH
+💼 Trenutno: Chief IT |Target: 260-320k RSD
+📅 Dostupan:U okvirima zakona
 📍 Lokacija: Beograd/Nova Pazova, Srbija
 🕒 24/7 on-call experience
 ```
