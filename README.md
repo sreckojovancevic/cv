@@ -182,7 +182,8 @@ https://doi.org/10.5281/zenodo.18153015
 ---
 
 Research outputs are archived through **Zenodo**, providing persistent DOI identifiers and long-term preservation within the European Open Science ecosystem (OpenAIRE / CERN).
-
+ORCID iD: 0009-0006-1534-3606
+ORCID record is https://orcid.org/0009-0006-1534-3606
 ---
 
 # TECHNICAL SKILLS
