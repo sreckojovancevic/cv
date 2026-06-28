@@ -1,335 +1,248 @@
-# 👨‍💼 SREĆKO JOVANČEVIĆ
+# SREĆKO JOVANČEVIĆ
 
-### Senior Systems Engineer | IT Infrastructure Manager | Chief of IT Department
+Senior Systems Engineer | IT Infrastructure Manager | Chief of IT Department
 
-📍 **Nova Pazova / Beograd, Serbia**
-📞 **+381 63 88 31 470**
-✉️ **[srecko.jovancevic@gmail.com](mailto:srecko.jovancevic@gmail.com)**
-
----
-
-# PROFESSIONAL SUMMARY
-
-Senior Systems Engineer and IT Infrastructure Manager with over **20 years of experience** designing, implementing, and managing enterprise IT infrastructure across public and private sectors.
-
-Specialized in **Windows Server environments (NT–2022), VMware virtualization, Active Directory, Microsoft 365, enterprise storage, networking, cybersecurity, and zero-downtime migrations**. Extensive experience leading IT operations, developing custom enterprise software solutions, and maintaining mission-critical systems.
-
-Experienced in strategic IT planning, infrastructure modernization, disaster recovery, business continuity, and operational management.
+📍 Nova Pazova / Beograd, Serbia  
+📞 +381 63 88 31 470  
+✉️ srecko.jovancevic@gmail.com  
+🔗 GitHub: https://github.com/sreckojovancevic  
+🔗 IETF Datatracker: https://datatracker.ietf.org/person/Srecko%20Jovancevic
 
 ---
 
-# PROFESSIONAL EXPERIENCE
+## PROFESSIONAL SUMMARY
 
-## Chief of IT Department
+Senior Systems Engineer and IT Infrastructure Manager with 20+ years of experience in enterprise IT operations, infrastructure design, and service reliability.
 
-**Standing Conference of Towns and Municipalities (SKGO), Belgrade**
+Specialized in Windows Server, VMware, Active Directory, Microsoft 365, enterprise storage, networking, cybersecurity, backup, disaster recovery, and zero-downtime migrations.
+
+Experienced in strategic IT planning, operational leadership, infrastructure modernization, and development of custom automation and backup solutions.
+
+---
+
+## CORE STRENGTHS
+
+- Enterprise infrastructure management
+- Windows Server (NT–2022)
+- VMware vSphere
+- Active Directory / Group Policy
+- Microsoft 365 / Exchange Online / Entra ID
+- Backup, DR, and business continuity
+- Networking: Cisco, Palo Alto, VLAN, VPN, routing, switching
+- Automation and integration: PowerShell, C#, PHP, Python, Microsoft Graph SDK v2
+
+---
+
+## PROFESSIONAL EXPERIENCE
+
+### Chief of IT Department
+**Standing Conference of Towns and Municipalities (SKGO), Belgrade**  
 **April 2019 – Present**
 
 Responsible for complete enterprise IT infrastructure and strategic technology planning.
 
-### Key Responsibilities
+**Scope of responsibility**
+- 32 production servers
+- 40+ websites
+- 14 Cisco network switches
+- Quantastor SAN/NAS storage
+- Microsoft 365 environment
+- VMware virtualization platform
+- Active Directory and identity services
+- Enterprise backup and disaster recovery
+- Video surveillance infrastructure
+- Desktop and server support for 80+ users
 
-* Management of enterprise infrastructure consisting of:
+**Selected achievements**
+- Developed custom Microsoft Graph SDK v2 backup platform.
+- Built enterprise Microsoft 365 backup automation.
+- Led infrastructure modernization initiatives.
+- Planned and executed zero-downtime migrations.
+- Improved availability, continuity, and operational resilience.
 
-  * 32 production servers
-  * 40+ websites
-  * 14 Cisco network switches
-  * Quantastor SAN/NAS Storage
-* Administration of Microsoft 365 environment
-* Enterprise virtualization (VMware)
-* Active Directory administration
-* Enterprise backup and disaster recovery
-* Video surveillance infrastructure
-* Desktop and server support for 80+ users
-* Strategic IT planning
-* Infrastructure modernization
-* Operational responsibility for mission-critical systems
-* Planning and execution of zero-downtime infrastructure migrations
+**GitHub:** https://github.com/sreckojovancevic/ms-graph-delta-bridg
 
-### Selected Projects
-
-* Developed custom Microsoft Graph SDK v2 Backup Platform
-* Enterprise Microsoft 365 backup automation
-* Infrastructure modernization
-* High availability and business continuity improvements
-
-GitHub:
-https://github.com/sreckojovancevic/ms-graph-delta-bridg
-
----
-
-## Systems Engineer
-
-**Standing Conference of Towns and Municipalities (SKGO), Belgrade**
-
+### Systems Engineer
+**Standing Conference of Towns and Municipalities (SKGO), Belgrade**  
 **November 2015 – November 2019**
 
-* Enterprise infrastructure administration
-* Windows Server administration
-* VMware support
-* Infrastructure monitoring
-* User support
-* Maintenance of production services
+- Windows Server administration
+- VMware support and infrastructure monitoring
+- User and production systems support
+- Maintenance of critical services
 
----
-
-## E-learning Consultant
-
-**Standing Conference of Towns and Municipalities (SKGO), Belgrade**
-
+### E-learning Consultant
+**Standing Conference of Towns and Municipalities (SKGO), Belgrade**  
 **October 2015 – November 2015**
 
-* Moodle implementation
-* Development of e-learning platform
-* User training
+- Moodle implementation
+- E-learning platform development
+- User training
 
----
-
-## IT Professional / Consultant
-
-**Standing Conference of Towns and Municipalities (SKGO), Belgrade**
-
+### IT Professional / Consultant
+**Standing Conference of Towns and Municipalities (SKGO), Belgrade**  
 **December 2012 – July 2013**
 
-* Enterprise VMware upgrades
-* FileMaker application development
-* Migration of enterprise mail infrastructure from Postfix/MySQL to Zimbra with no service interruption
+- VMware upgrades
+- FileMaker application development
+- Migration of enterprise mail infrastructure from Postfix/MySQL to Zimbra with no service interruption
 
----
-
-## IT Manager
-
-**Progalvano Mikrometal, Zemun**
-
+### IT Manager
+**Progalvano Mikrometal, Zemun**  
 **July 2008 – July 2014**
 
 Responsible for complete IT infrastructure.
 
-* Windows Server administration
-* Linux administration
-* Cisco networking
-* Active Directory
-* VPN
-* Firewall administration
-* User training
-* Infrastructure maintenance
+- Windows Server administration
+- Linux administration
+- Cisco networking
+- Active Directory
+- VPN and firewall administration
+- User training
+- Infrastructure maintenance
 
----
-
-## Director of Computing Center
-
-**Braća Karić University, Belgrade**
-
+### Director of Computing Center
+**Braća Karić University, Belgrade**  
 **March 2002 – November 2008**
 
-* Management of university computing center
-* Administration of university network (100+ workstations)
-* Windows infrastructure
-* Linux infrastructure
-* Linux firewall
-* Windows Group Policy
-* IT planning and development
+- Managed university computing center and IT operations
+- Administered network of 100+ workstations
+- Windows and Linux infrastructure administration
+- Linux firewall and Windows Group Policy
+- IT planning and development
 
----
-
-## Teaching Assistant (Part-time)
-
-**Braća Karić University / Alfa University**
-
+### Teaching Assistant (Part-time)
+**Braća Karić University / Alfa University**  
 **2001 – 2008**
 
 Courses:
-
-* Strategic Management
-* Management Information Systems
+- Strategic Management
+- Management Information Systems
 
 ---
 
-# SELECTED OPEN SOURCE PROJECTS
+## SELECTED PROJECTS
 
 ### Microsoft Graph Delta Backup
-
 Enterprise backup solution based on Microsoft Graph SDK v2 (Kiota).
 
-https://github.com/sreckojovancevic/ms-graph-delta-bridg
-
----
+GitHub: https://github.com/sreckojovancevic/ms-graph-delta-bridg
 
 ### DDoS Detection & Prevention
-
 Research project developed as part of undergraduate thesis.
 
-https://github.com/sreckojovancevic/ddos
+GitHub: https://github.com/sreckojovancevic/ddos
 
 ---
 
-# PUBLICATIONS & OPEN SCIENCE
+## PUBLICATIONS & OPEN SCIENCE
 
-### Zenodo Publications (Persistent DOI)
+### Zenodo Publications
+- Persistent Ontological Model of Ego  
+  DOI: https://doi.org/10.5281/zenodo.20826860
 
-**Persistent Ontological Model of Ego**
+- Second publication  
+  DOI: https://doi.org/10.5281/zenodo.18153015
 
-DOI:
-https://doi.org/10.5281/zenodo.20826860
+- Third publication  
+  DOI: https://doi.org/10.5281/zenodo.20917831
 
----
+Research outputs are archived through Zenodo with persistent DOI identifiers and long-term preservation.
 
-Second publication
-
-DOI:
-https://doi.org/10.5281/zenodo.18153015
-
----
-Third publication
-
-DOI:
-[https://doi.org/10.5281/zenodo.18153015](https://doi.org/10.5281/zenodo.20917831)
-
----
-Research outputs are archived through **Zenodo**, providing persistent DOI identifiers and long-term preservation within the European Open Science ecosystem (OpenAIRE / CERN).
-ORCID iD: 0009-0006-1534-3606
-ORCID record is https://orcid.org/0009-0006-1534-3606
----
-
-# TECHNICAL SKILLS
-
-## Infrastructure
-
-* Windows Server NT–2022
-* VMware vSphere 4.x–7.x
-* Active Directory
-* Quantastor Storage
-* Hyper-V
-* DNS
-* DHCP
-* IIS
-* File Services
-* Group Policy
-
-## Networking
-
-* Cisco
-* Palo Alto
-* Allied Telesis
-* VPN
-* VLAN
-* Firewall
-* TCP/IP
-* Routing
-* Switching
-
-## Cloud
-
-* Microsoft 365
-* Microsoft Graph SDK v2
-* Exchange Online
-* Microsoft Entra ID
-
-## Development
-
-* PHP
-* C#
-* .NET
-* VSTO
-* PowerShell
-* Python
-* FileMaker
-* Git
-* GitHub
-
-## Security
-
-* Linux Firewall
-* Windows Security
-* Group Policy
-* DDoS Detection
-* Backup & Disaster Recovery
-* Business Continuity
+ORCID: https://orcid.org/0009-0006-1534-3606
 
 ---
 
-# SELECTED ACHIEVEMENTS
+## STANDARDS & INTERNET-DRAFTS
 
-* Designed and maintained enterprise infrastructure supporting mission-critical services.
-* Successfully migrated enterprise mail infrastructure without service interruption.
-* Developed production-ready Microsoft 365 backup platform using Microsoft Graph SDK v2.
-* Managed enterprise virtualization environment hosting over 30 production servers.
-* Led multiple infrastructure modernization initiatives.
-* Designed and implemented enterprise backup and disaster recovery solutions.
+IETF Datatracker profile:  
+https://datatracker.ietf.org/person/Srecko%20Jovancevic
+
+Active Internet-Drafts:
+- draft-jovancevic-saip — Signed Agent Identity Protocol
+- draft-jovancevic-vicdm
+- draft-jovancevic-vdac — Verifiable Data Access Contract
+- draft-jovancevic-bvap — Browser Vendor Attestation Protocol
+
+IETF Datatracker activity includes active draft work in identity, policy, attestation, and access-contract related topics.
 
 ---
 
-# EDUCATION
+## TECHNICAL SKILLS
 
-## Master of Strategic Management
+### Infrastructure
+Windows Server NT–2022, VMware vSphere 4.x–7.x, Active Directory, Quantastor Storage, Hyper-V, DNS, DHCP, IIS, File Services, Group Policy
 
-Braća Karić University
+### Networking
+Cisco, Palo Alto, Allied Telesis, VPN, VLAN, Firewall, TCP/IP, Routing, Switching
 
-2002 – 2007
+### Cloud
+Microsoft 365, Microsoft Graph SDK v2, Exchange Online, Microsoft Entra ID
+
+### Development AI ASSISTED
+PHP, C#, .NET, VSTO, PowerShell, Python, FileMaker, Git, GitHub
+
+### Security
+Linux Firewall, Windows Security, Group Policy, DDoS Detection, Backup & Disaster Recovery, Business Continuity
+
+---
+
+## SELECTED ACHIEVEMENTS
+
+- Designed and maintained enterprise infrastructure supporting mission-critical services.
+- Successfully migrated enterprise mail infrastructure without service interruption.
+- Developed production-ready Microsoft 365 backup platform using Microsoft Graph SDK v2.
+- Managed enterprise virtualization environment hosting 30+ production servers.
+- Led infrastructure modernization and resilience improvements.
+- Designed and implemented enterprise backup and disaster recovery solutions.
+
+---
+
+## EDUCATION
+
+### Master of Strategic Management
+**Braća Karić University**  
+**2002 – 2007**
 
 Focus:
+- Leadership
+- Organizational Development
+- Psychology
 
-* Leadership
-* Organizational Development
-* Psychology
-
----
-
-## Bachelor of IT Management
-
-Braća Karić University
-
-1996 – 2001
+### Bachelor of IT Management
+**Braća Karić University**  
+**1996 – 2001**
 
 Graduation Thesis:
-
 **Distributed Denial of Service (DDoS) Detection and Prevention**
 
 ---
 
-# CERTIFICATIONS
+## CERTIFICATIONS
 
-* Leadership Academy — Serbian Chamber of Commerce (2008)
-* ECDL Authorized Tester (2008)
-* University Teaching Assistant
-* External University Lecturer
-
----
-
-# LANGUAGES
-
-* Serbian — Native
-* English — Professional Working Proficiency
+- Leadership Academy — Serbian Chamber of Commerce (2008)
+- ECDL Authorized Tester (2008)
+- University Teaching Assistant
+- External University Lecturer
 
 ---
 
-# AVAILABILITY
+## LANGUAGES
 
-Current Position:
-
-Chief of IT Department
-
-Target Salary:
-
-260,000–320,000 RSD
-
-Availability:
-
-According to legal notice period.
-
-Location:
-
-Belgrade / Nova Pazova, Serbia
-
-Extensive 24/7 operational support experience.
+- Serbian — Native
+- English — Professional Working Proficiency
 
 ---
 
-# INTERESTS
+## AVAILABILITY
 
-* Enterprise Infrastructure
-* Open Source Development
-* Cyber Security
-* Mountain Hiking
-* Guitar
-* Systems Architecture
+Current Position: Chief of IT Department  
+Target Salary: 260,000–320,000 RSD  
+Availability: According to legal notice period  
+Location: Belgrade / Nova Pazova, Serbia
+
+---
+
+## INTERESTS
+
+Enterprise Infrastructure, Open Source Development, Cyber Security, Mountain Hiking, Guitar, Systems Architecture
