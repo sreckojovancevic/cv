@@ -160,7 +160,7 @@ https://datatracker.ietf.org/person/Srecko%20Jovancevic
 
 Active Internet-Drafts:
 - draft-jovancevic-saip — Signed Agent Identity Protocol
-- draft-jovancevic-vicdm
+- draft-jovancevic-vicdm — Verifiable Identity Claims and Delegation Model 
 - draft-jovancevic-vdac — Verifiable Data Access Contract
 - draft-jovancevic-bvap — Browser Vendor Attestation Protocol
 
