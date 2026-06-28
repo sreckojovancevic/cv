@@ -44,10 +44,13 @@ Responsible for complete enterprise IT infrastructure and strategic technology p
 **Scope of responsibility**
 - 32 production servers
 - 40+ websites
-- 14 Cisco network switches
+- 14 Allied Telesis network switches
 - Quantastor SAN/NAS storage
+- Qnap Storage
+- Lenovo Ds4200 Storage
+- IBM storage ds3524 
 - Microsoft 365 environment
-- VMware virtualization platform
+- VMware virtualization platform 5 to 7 version
 - Active Directory and identity services
 - Enterprise backup and disaster recovery
 - Video surveillance infrastructure
