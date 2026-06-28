@@ -178,9 +178,9 @@ Cisco, Palo Alto, Allied Telesis, VPN, VLAN, Firewall, TCP/IP, Routing, Switchin
 
 ### Cloud
 Microsoft 365, Microsoft Graph SDK v2, Exchange Online, Microsoft Entra ID
+### AI-Assisted Development
 
-### Development AI ASSISTED
-PHP, C#, .NET, VSTO, PowerShell, Python, FileMaker, Git, GitHub
+Architecture, engineering decisions, testing, and final integration were led by me. AI tools were used primarily to accelerate code generation, prototyping, and implementation.
 
 ### Security
 Linux Firewall, Windows Security, Group Policy, DDoS Detection, Backup & Disaster Recovery, Business Continuity
