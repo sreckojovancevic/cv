@@ -126,6 +126,11 @@ Courses:
 
 ## SELECTED PROJECTS
 
+### Yellowstone Cache
+Transparent RAM/SSD caching layer for existing Linux LIO storage targets. Built around `dm-cache` to attach to live production storage **without touching data or changing LUN identity** (WWN/NAA preserved). Enforces writethrough-only for RAM caches in code (no data loss on power failure), provides atomic attach/detach with automatic rollback, and crash recovery via `repair` command. Tested on production Dell PowerEdge + VMware ESXi environment at SKGO.
+
+GitHub: https://github.com/sreckojovancevic/yellowstone-cache
+
 ### Microsoft Graph Delta Backup
 Enterprise backup solution based on Microsoft Graph SDK v2 (Kiota).
 
