@@ -142,7 +142,17 @@ Research project developed as part of undergraduate thesis.
 GitHub: https://github.com/sreckojovancevic/ddos
 
 ---
+### Independent Software Development & Technical R&D
 
+**SHORT — Windows Drive Mapping Management Utility**
+- Conceptualized and initiated the development of a Windows utility for creating and managing virtual drive mappings using the native `SUBST` command.
+- Designed context-menu integration for direct operation through Windows File Explorer.
+- Defined a complete lifecycle management approach, including cleanup and removal of application-created mappings and context-menu entries during uninstallation.
+
+**CIRLATE — Software Development & Technical R&D**
+- Independent software development and technical research project.
+- Further technical details and project objectives to be specified.
+---
 ## PUBLICATIONS & OPEN SCIENCE
 
 ### Zenodo Publications
